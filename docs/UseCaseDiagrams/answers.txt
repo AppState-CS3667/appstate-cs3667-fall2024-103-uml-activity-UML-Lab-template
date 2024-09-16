@@ -1,0 +1,22 @@
+1.The primary actors of the self-checkout diagram are minor and adult shoppers
+
+2.The secondary actors of the self-checkout diagram are employees.
+
+3.a verb would describe the use cases
+
+4.the actors are nouns
+
+5.the primary actors are primary because they initiate interaction with the
+system.
+
+6.the secondary actors are secondary because they react to system behavior 
+rather than initiating it.
+
+7.verify ID extends scan items because ID needs access to fields that would
+determine the neccesity of verifying an ID.
+
+8.Scan items includes a check cart for items to ensure items are going from
+the scanner to the cart as well as relay the already-scanned items to the 
+user and employee.
+
+
